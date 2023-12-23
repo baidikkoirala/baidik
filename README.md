@@ -1,0 +1,5 @@
+-  Hi, I’m @kidiab
+-  I’m interested in Software Development
+-  I’m currently learning C and Python
+-  Currently in the process of learning new things to improve my efficiency.
+-  You can reach me at baidikkoirala005@gmail.com although I am rarely online.
