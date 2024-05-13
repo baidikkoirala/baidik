@@ -1,4 +1,4 @@
--  Hi, I’m @kidiab
+-  Hi, I’m @baidik
 -  I’m interested in Software Development
 -  I’m currently learning C and Python
 -  Currently in the process of learning new things to improve my efficiency.
